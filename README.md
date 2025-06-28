@@ -8,9 +8,6 @@
     <a href="https://discord.gg/n9fFstG">
         <img src="https://img.shields.io/discord/741040473476694159?color=%237289DA&label=Bathbots%20workshop&logo=discord&style=for-the-badge" alt="Discord">
     </a>
-    <a href="https://ko-fi.com/T6T0BTB5T">
-        <img src="https://ko-fi.com/img/githubbutton_sm.svg" alt="Ko-fi">
-    </a>
     <a href=https://bathbot.de/status>
       <img src="https://img.shields.io/badge/metrics-beige?style=for-the-badge&logo=grafana" alt="Metrics">
     </a>
